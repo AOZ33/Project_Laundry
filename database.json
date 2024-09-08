@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "nama_L": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": ""
+    }
+  ],
+  "produk": [
+    {
+      "nama_B": "BedCover Kecil",
+      "harga": 11000,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nama_B": "Bed Cover Sedang",
+      "harga": 15000
+    },
+    {
+      "id": "6886",
+      "nama_B": "Jaket",
+      "harga": 14000
+    },
+    {
+      "nama_B": "Sneakers",
+      "harga": 30000,
+      "id": "abd1"
+    },
+    {
+      "id": "9896",
+      "nama_B": "Jas",
+      "harga": 25000
+    },
+    {
+      "nama_B": "Kiloan /kg",
+      "harga": 8500,
+      "id": "1bef"
+    },
+    {
+      "nama_B": "Karpet Kecil",
+      "harga": 20000,
+      "id": "0465"
+    },
+    {
+      "id": "207b",
+      "nama_B": "Selimut",
+      "harga": 6000
+    },
+    {
+      "id": "b6ac",
+      "nama_B": "Helem",
+      "harga": 15000
+    }
+  ],
+  "pelangganDB": [
+    {
+      "Nama": "ArthurOZ",
+      "notelp": 628817740152,
+      "email": "aozabka@gmail.com",
+      "tanggal": "2024-08-13",
+      "total_h": 58000,
+      "products": [
+        "abd1",
+        "1bef"
+      ],
+      "id": "2e81"
+    },
+    {
+      "id": "6227",
+      "Nama": "joko",
+      "notelp": 628217775678,
+      "email": "jokow@mail.com",
+      "tanggal": "2024-08-15",
+      "total_h": 69000,
+      "products": [
+        "1",
+        "1bef",
+        "abd1"
+      ]
+    },
+    {
+      "Nama": "depi",
+      "notelp": 6281210007891,
+      "email": "depi@gmail.com",
+      "tanggal": "2024-08-15",
+      "total_h": 50000,
+      "products": [
+        "0465",
+        "abd1"
+      ],
+      "id": "6b88"
+    },
+    {
+      "id": "a07c",
+      "Nama": "Dudi",
+      "notelp": 81231453667,
+      "email": "dudih@gmail.com",
+      "tanggal": "2024-08-12",
+      "total_h": 15000,
+      "products": [
+        "b6ac"
+      ]
+    }
+  ]
+}
